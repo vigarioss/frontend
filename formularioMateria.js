@@ -1,5 +1,5 @@
-const URL_API_MATERIA = 'http://localhost:3000/materia/'
-const URL_API_PROFESSOR = 'http://localhost:3000/professor/'
+const URL_API_MATERIA = 'https://backend-render-hzje.onrender.com/materia/'
+const URL_API_PROFESSOR = 'https://backend-render-hzje.onrender.com/professor/'
 const URL_REDICIONAMENTO = './materias.html'
 
 const urlParams = new URLSearchParams(window.location.search);

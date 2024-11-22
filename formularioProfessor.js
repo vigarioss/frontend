@@ -1,4 +1,4 @@
-const URL_API = 'http://localhost:3000/professor/'
+const URL_API = 'https://backend-render-hzje.onrender.com/professor/'
 const URL_REDICIONAMENTO = './professores.html'
 
 const urlParams = new URLSearchParams(window.location.search);

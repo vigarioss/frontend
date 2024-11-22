@@ -1,4 +1,4 @@
-const URL_API = "http://localhost:3000/professor/"
+const URL_API = "https://backend-render-hzje.onrender.com/professor/"
 const URL_VISUALIZAR = "visualizarProfessor.html"
 const URL_ADICIONAR = "formularioProfessor.html?acao=adicionar"
 const URL_ATUALIZAR = "formularioProfessor.html?acao=atualizar"
